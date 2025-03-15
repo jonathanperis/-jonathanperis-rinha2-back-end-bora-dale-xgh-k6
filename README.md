@@ -1,4 +1,4 @@
-# -jonathanperis-rinha2-back-end-bora-dale-xgh-k6
+# jonathanperis-rinha2-back-end-bora-dale-xgh-k6
 
 This repository contains Grafana K6 stress tests designed for the "Rinha de Backend Segunda Edição". It simulates various backend transactional scenarios including debits, credits, client validations, and error handling.
 
