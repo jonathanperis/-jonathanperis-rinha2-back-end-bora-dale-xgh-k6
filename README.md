@@ -1,4 +1,4 @@
-# jonathanperis-rinha2-back-end-bora-dale-xgh-k6
+# jonathanperis-rinha2-back-end-k6
 
 This repository contains Grafana K6 stress tests designed for the "Rinha de Backend Segunda Edição". It simulates various backend transactional scenarios including debits, credits, client validations, and error handling.
 
@@ -17,7 +17,7 @@ This repository contains Grafana K6 stress tests designed for the "Rinha de Back
 1. Ensure Docker is installed.
 2. Build the Docker image:
    ```
-   docker build -t jonathanperis/rinha2-back-end-bora-dale-xgh-k6 .
+   docker build -t jonathanperis/rinha2-back-end-k6 .
    ```
 3. Run the container in the desired MODE (dev or prod).
 

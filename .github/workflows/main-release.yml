@@ -39,5 +39,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: jonathanperis/rinha2-back-end-bora-dale-xgh-k6:latest
+          tags: jonathanperis/rinha2-back-end-k6:latest
           platforms: linux/amd64,linux/arm64/v8
